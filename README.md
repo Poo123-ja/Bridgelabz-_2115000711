@@ -4,7 +4,7 @@ Arithmetic Operations – Addition, subtraction, multiplication, and division.\
 Algebraic Formulas – Solving quadratic equations, area and perimeter calculations.\
 Geometric Formulas – Circle area (πr²), triangle area ((1/2) × base × height).\
 Physics Formulas – Speed (distance/time), force (mass × acceleration).\
-Financial Calculations – Simple interest ((P × R × T)/100), compound interest.\
+Financial Calculations – Simple interest ((P × R × T)/100), compound interest.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Day2-(22-01-25): I learned about different types of operators, such as arithmetic, relational, logical, and assignment operators, which help perform calculations and comparisons in a program. I also practiced taking user input, allowing programs to interact with users by accepting values dynamically. By combining operators and user input, I implemented simple programs like addition, finding the largest number, and checking conditions. This helped me understand how to process user data and perform operations based on input. Overall, it improved my logical thinking and coding skills.
