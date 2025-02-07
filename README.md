@@ -34,4 +34,12 @@ Day8-(01-02-25): I learned about constructors, instance variables, class variabl
 Day9-(04-02-25): I explored and used the static, final, and instanceof keywords in programs to understand their roles in Java. The static keyword is used for variables and methods that belong to the class rather than a specific object, making them shared among all objects. The final keyword is used to make variables constant, prevent method overriding, and restrict class inheritance. The instanceof keyword helps check whether an object belongs to a specific class or subclass. I implemented programs using these keywords to see how they help in memory management, security, and runtime type checking.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Day10-(05-02-25): In Java, objects are instances of a class, created using the new keyword. An array of objects allows multiple objects of the same type to be stored and managed efficiently. Each object in the array must be initialized separately. You can use loops to iterate through the array and access object properties or methods. This approach is useful for handling collections of related data dynamically.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Day11-(07-02-25):Learned basic java concepts about Inheritance. Hybrid, Multilevel and Single Inheritance. Also performed Multiple Inheritance using Interfaces. 
+Single Inheritance: One class inherits from another.
+Multilevel Inheritance: A chain of inheritance.
+Hybrid Inheritance: A mix of multiple inheritance types, achieved using interfaces.
+Multiple Inheritance: Not allowed with classes, but possible using interfaces.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
