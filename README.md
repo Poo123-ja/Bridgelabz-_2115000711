@@ -43,3 +43,6 @@ Multilevel Inheritance: A chain of inheritance.
 Hybrid Inheritance: A mix of multiple inheritance types, achieved using interfaces.
 Multiple Inheritance: Not allowed with classes, but possible using interfaces.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day-(10-02-25): In this assignment I have learnt OOPS concept with proper implementation.Encapsulation protects data by using `private` fields with `public` getters and setters, ensuring controlled access. Polymorphism makes code flexible by allowing methods to be overridden and used dynamically. Interfaces define reusable behaviors, promoting modular design, while abstract classes share common functionality among related classes. Prefer composition over inheritance to avoid complex hierarchies and improve maintainability. Keep inheritance shallow to make the code easier to manage. Use validation in setters to maintain data integrity.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
