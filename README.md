@@ -51,3 +51,5 @@ Day13-(11-02-25):In this Assignment I have learned real life problems using sing
 
 Day14-(13-02-25): n this Asignments I have learned and came up with algorithms to solve problems using HashMap, HashSet, Stacks and Queues, whilst learning about their basic operations.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day15-(13-02-25):In this Assignment I have Learned and implemented array sorting algorithms as Bubble Sort, Merge Sort, Heap Sort, Quick Sort, Insertion Sort, Selection Sort, Counting Sort.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
